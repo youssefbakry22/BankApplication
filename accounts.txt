@@ -1,0 +1,11 @@
+FCAI-0
+Basic Account
+7010
+FCAI-1
+Saving Account
+10000
+2000
+FCAI-2
+Saving Account
+40000
+1800
